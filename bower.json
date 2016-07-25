@@ -1,0 +1,22 @@
+{
+  "name": "dickswitcher",
+  "description": "",
+  "main": "script.js",
+  "authors": [
+    "BlairMcMillan <theblairmcmillan@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/theblairmcmillan/switcher",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7"
+  }
+}
